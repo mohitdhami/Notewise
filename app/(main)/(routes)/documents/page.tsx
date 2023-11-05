@@ -42,7 +42,7 @@ const DocumentsPage = () => {
             />
 
             <h2>
-                Welcome to {user?.firstName}&apos;s Jotion
+                Welcome to {user?.firstName}&apos;s Notewise
             </h2>
             <Button onClick={onCreate}>
                 <PlusCircle className="h-4 w-4 mr-2"/>
