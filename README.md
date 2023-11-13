@@ -3,11 +3,9 @@
 - The app provides users with the ability to keep notes, which can be synchronized online to safeguard important information.
 
 - To get started with the app, users can sign up via Github.
+<br>
 
-
-<div align = "center">
-<img src="https://github.com/mohitdhami/Notewise/assets/38837994/6e6b2da4-c9f1-4ba3-94a2-877739a82238" height="350" alt="editor">
-</div>
+![Notewise-Workspace](https://github.com/mohitdhami/Notewise/assets/38837994/6e6b2da4-c9f1-4ba3-94a2-877739a82238)
 
  ## Tech Stack
  
@@ -23,7 +21,8 @@ A step-by-step guide on how to install and set up the project. For example:
 **2. Start Project in development Mode**  `$ npm run dev`
 
 
-## Repository Map
+## Project Structure
+
 
     
     README.md             - contains general information about repository
@@ -46,8 +45,7 @@ A step-by-step guide on how to install and set up the project. For example:
 -   Our goal is to make this clone more robust and secure for the users
 
 ## License
-
--   Do whatever you want to do with this codebase by cloning it and implement your own feature, host on your own web services
+-  This codebase is provided without any licenses or conditions. Please feel unrestricted in utilizing it for your specific needs by cloning the repository and integrating your desired features. Furthermore, you have the flexibility to host the code on your preferred web services without any constraints.
 
  <br>
 Thank you for visiting our repository 💙
