@@ -16,9 +16,15 @@
 
 A step-by-step guide on how to install and set up the project. For example:
 
-**1. Clone the repository**  `git clone https://github.com/mohitdhami/Notewise`
+**1. Clone the repository**  <br>
+* `$ git clone https://github.com/mohitdhami/Notewise`
 
-**2. Start Project in development Mode**  `$ npm run dev`
+**2. Install Dependencies**
+* Make Sure Node.js is Installed<br>
+* `$ npm install` 
+
+**2. Start Project in development Mode**<br>
+* `$ npm run dev`
 
 
 ## Project Structure

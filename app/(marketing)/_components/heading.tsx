@@ -11,11 +11,11 @@ export const Heading = () => {
     const { isAuthenticated, isLoading } = useConvexAuth();
     return (
         <div className="max-w-3xl space-y-4">
-            <h1 className="text-3xl sm:text-5xl md:text-6xl font-bold">
+            {/* <h1 className="text-3xl sm:text-5xl md:text-6xl font-bold">
                 Your Ideas, documents & Plans. Unified. Welcome to <span className="underline">Notewise</span>
-            </h1>
+            </h1> */}
             <h3 className="text-base sm:text-xl md:text-2xl font-medium">
-                Notewise is the connected workspace where better, faster work happens.
+            Unlock the Power of Productivity: Notewise, Your Dynamic Hub for Connected Work.
             </h3>
             {isLoading && (
                 <div className="w-full flex items-center justify-center">
