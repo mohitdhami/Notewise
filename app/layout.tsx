@@ -12,18 +12,18 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'Notewise',
-  description: 'Repository for your Notes',
+  description: 'Personal Documents and Notes Workspace',
   icons: {
     icon: [
       {
         media: "(prefers-color-schme: light)",
-        url: "/logo.svg",
-        href: "/logo.svg"
+        url: "/logo.png",
+        href: "/logo.png"
       },
       {
         media: "(prefers-color-scheme: dark)",
-        url: "/logo-dark.svg",
-        href: "/logo-dark.svg"
+        url: "/logo-dark.png",
+        href: "/logo-dark.png"
       }
     ]
   }
