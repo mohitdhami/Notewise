@@ -45,7 +45,8 @@ export const SearchCommand = () => {
     }, [toggle]);
 
     const onSelect = (id: string) => {
-        router.push('/documents/'+id);
+        let doc_id = id.split("-");
+        router.push('/documents/' + doc_id[0]);
         onClose();
     }
 
@@ -65,7 +66,7 @@ export const SearchCommand = () => {
                     {documents?.map((document) => (
                         <CommandItem
                             key={document._id}
-                            value={`${document._id}`}
+                            value={`${document._id} - ${document.title}`}
                             title={document.title}
                             onSelect={onSelect}
                         >
