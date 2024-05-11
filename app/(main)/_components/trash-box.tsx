@@ -76,6 +76,22 @@ export const TrashBox = () => {
                     placeholder="Filter by page title.."
                 />
             </div>
+            
+            {/* 
+                Remove all items from trash at once
+            */}
+            <div className="flex items-center justify-center gap-x-1 p-2">
+                <p>Empty Trash</p>
+                <ConfirmModal onConfirm={() => filteredDocuments?.map((document) => (onRemove(document._id)))}>
+                            <div 
+                                role="button"
+                                className="rounded-sm p-2 hover:bg-neutral-200 "
+                            >
+                                <Trash className="h-4 w-4 text-muted-foreground" />
+                            </div>
+                </ConfirmModal>
+            </div>
+
             <div className="mt-2 px-1 pb-1">
                 <p className="hidden last:block text-xs text-center text-muted-foreground">
                     No documents found.
