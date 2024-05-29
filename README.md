@@ -4,6 +4,11 @@
 
 - To get started with the app, users can sign up via Github.
 <br>
+<br>
+
+<img width="1657" alt="Screenshot 2024-05-29 at 2 57 22 PM" src="https://github.com/mohitdhami/Notewise/assets/38837994/68c0a0b8-f8ec-473a-8a61-0226696b4ffa">
+
+<br>
 
 ![Notewise-Workspace](https://github.com/mohitdhami/Notewise/assets/38837994/6e6b2da4-c9f1-4ba3-94a2-877739a82238)
 
@@ -38,7 +43,7 @@ A step-by-step guide on how to install and set up the project. For example:
     /app/main             - Components to handle Sidebar Features i.e Search, Settings,
                             Pages, Trash, Sign-ops
 
-## Contribution (Currently not allowed)
+## Contributing to Notewise
 
 -   if your want to contribute, read contribution rules  `contributing.md`  and ensure you are following project specific contributing practices.
 -   Don't use this repository as a practice repository, we expect valuable contributions that makes drastic difference in a good way
