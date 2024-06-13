@@ -1,16 +1,16 @@
-## NoteWise : Repository for your notes
+## Notewise : Personal Documents and Notes Workspace
 
-- The app provides users with the ability to keep notes, which can be synchronized online to safeguard important information.
+Take control of your ideas! With **Notewise**, you can capture important information in notes that sync securely online, ensuring you can access them from anywhere, anytime.
 
-- To get started with the app, users can sign up via Github.
-<br>
-<br>
-
-<img width="1657" alt="Screenshot 2024-05-29 at 2 57 22 PM" src="https://github.com/mohitdhami/Notewise/assets/38837994/68c0a0b8-f8ec-473a-8a61-0226696b4ffa">
+> Try our Web App: https://notewise-seven.vercel.app/
 
 <br>
 
-![Notewise-Workspace](https://github.com/mohitdhami/Notewise/assets/38837994/6e6b2da4-c9f1-4ba3-94a2-877739a82238)
+<div align="center" style="display: grid; align-items: space-around;">
+<img alt="Screenshot 2024-05-29 at 2 57 22 PM" src="https://github.com/mohitdhami/Notewise/assets/38837994/68c0a0b8-f8ec-473a-8a61-0226696b4ffa">
+
+<img alt="BlockNote Editor UI" src="https://github.com/mohitdhami/Notewise/assets/38837994/6e6b2da4-c9f1-4ba3-94a2-877739a82238">
+</div>
 
  ## Tech Stack
  
@@ -42,6 +42,22 @@ A step-by-step guide on how to install and set up the project. For example:
     /app/marketing/       - Components to handle Landing Page
     /app/main             - Components to handle Sidebar Features i.e Search, Settings,
                             Pages, Trash, Sign-ops
+
+## Project Background
+
+* The Notewise Project serves as follow up and an extension of the Fullstack Notion Clone video on Youtube @codewithantonio ``https://youtu.be/0OaDyjB9Ib8``
+
+* Derive inspiration from various websites such as Notion, Codedpad, ProtectedText, Google Docs, and more, incorporating elements that contribute to the project's innovative approach.
+
+## Objective Tracker
+* **Security**: Make app more robust and secure for the users (Currently lacks security Standards)
+* **Data Mobilization**: Export your Notewise data with a click of a button.
+* **Re-order notes list**: Users can easily customize the organization of their notes by reordering them within the app. This feature allows for a more personalized and intuitive arrangement, enabling users to prioritize and access their notes in the most convenient way for them.
+* **Lock/Password based Document Encryption**: To enhance document and note security, users have the option to set passwords for specific files. This allows them to control access and modification privileges for their documents, ensuring a more robust level of protection.
+* **Collaborate Note Editing**: Implement real-time editing capabilities to allow multiple users to edit the same document simultaneously.
+* **Frequency based Organization**: Show top 10 frequently accessed documents and leave rest of documents hidden. when working on some other document, then this should be followed.
+* **Home Page**: Separate home page can be made to display all files just like google drive.
+* **Image2Text**: Implement Deep Learning based Image to Text Conversion while preserving text structure as of image.
 
 ## Contributing to Notewise
 
